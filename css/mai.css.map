@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,cAAc,CAAC;EACb,OAAO,EAAE,IAAI;CACd;;AAED,AAAA,mBAAmB,CAAC;EAClB,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,mBAAmB,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,mBAAmB,EAC1E,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,mBAAmB;CAIlC;;AAPD,AAIE,mBAJiB,AAIhB,IAAK,CAAA,WAAW,EAAE;EACjB,YAAY,EAAE,IAAI;CACnB",
+    "sources": [
+        "../sass/mai.scss",
+        "../sass/_exercise-3.scss"
+    ],
+    "names": [],
+    "file": "mai.css"
+}
