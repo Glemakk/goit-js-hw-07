@@ -16,6 +16,4 @@ function onInputBlur() {
         inputRef.classList.add("invalid")
         inputRef.classList.remove("valid")
     }
-}
-
-const inputRef = document.querySelector('#validation-input');
+};
